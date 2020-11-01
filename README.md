@@ -19,7 +19,7 @@
 - About Section
 - Write to Admin Page
 
-Site is live at: [https://rohitknanda.github.io/](https://rohitknanda.github.io/)
+Site is live at: [https://rohitknanda.github.io/portfolio/index.html](https://rohitknanda.github.io/portfolio/index.html)
 
 ## NOTES
 - ANIMATED PARTICLES ARE CREATED BY USING particle-js LIBRARY.

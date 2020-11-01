@@ -9,7 +9,7 @@
 ![Sample](/projects/projectss/portfolio-3.png)
 
 **Project Video:**
-[Check out the video here.](https://www.youtube.com/watch?v=_Rx7G2ycHL8)
+[Check out the video here.]()
 
 
 ## Features
@@ -19,7 +19,7 @@
 - About Section
 - Write to Admin Page
 
-Site is live at: [afifaniks.github.io](https://afifaniks.github.io)
+Site is live at: [https://rohitknanda.github.io/](https://rohitknanda.github.io/)
 
 ## NOTES
 - ANIMATED PARTICLES ARE CREATED BY USING particle-js LIBRARY.
